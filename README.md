@@ -9,6 +9,8 @@ This repo contains the notebook, data, and final report for my **analysis on the
 - Hierarchical Clustering
 
 ![Picture1](https://github.com/raj-pulapakura/Basketball-Players-Analysis/assets/87762282/68a1116c-3067-4431-81d7-65a9a04fcdee)
+![Picture2](https://github.com/raj-pulapakura/Basketball-Players-Analysis/assets/87762282/c302a9d5-b6a3-4a9e-afe5-50420996ed73)
+
 
 ## 🤔 Why?
 
