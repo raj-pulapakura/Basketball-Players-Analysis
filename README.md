@@ -15,7 +15,7 @@ This repo contains the notebook, data, and final report for my **analysis on the
 I created this repo for 3 main reasons:
 1.  Basketball is my favourite sport.
 2.  The final report included in this repo was an assignment for a Coursera project so I thought I might as well share it with the rest of the world.
-3.  To showcase my Data Science skills, specifically Exploratory Data Analysis and experimentation with classification models.
+3.  To showcase my Data Science skills, specifically Exploratory Data Analysis and knowledge of Unsupervised Learning algorithms.
 
 ## 🤗 What can you do?
 
